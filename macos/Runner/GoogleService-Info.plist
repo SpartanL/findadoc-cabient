@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990070719972-m96tu1div23dll30jlo4dchjmi64jp9e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990070719972-m96tu1div23dll30jlo4dchjmi64jp9e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCH3XU8O4inPpiTZ1VI6cIdMq4LQ0uGCnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990070719972</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.findadocCabinet</string>
+	<key>PROJECT_ID</key>
+	<string>findadoc-bb0ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findadoc-bb0ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990070719972:ios:6bf046ea3c3ad2aaa273f1</string>
+</dict>
+</plist>
